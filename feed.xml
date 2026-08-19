@@ -3,10 +3,30 @@
     <title>ON4BCB</title>
     <link href="https://www.on4bcb.com/feed.xml" rel="self" />
     <link href="https://www.on4bcb.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-08-19T21:04:20+02:00</updated>
     <author>
         <name>Walter ON4BCB</name>
     </author>
     <id>https://www.on4bcb.com</id>
 
+    <entry>
+        <title>Test page Wally</title>
+        <author>
+            <name>Walter ON4BCB</name>
+        </author>
+        <link href="https://www.on4bcb.com/test-page-wally.html"/>
+        <id>https://www.on4bcb.com/test-page-wally.html</id>
+
+        <updated>2026-08-19T21:04:20+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    En Lucee
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>En Lucee</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -9,5 +9,19 @@
         "name": "Walter ON4BCB"
     },
     "items": [
+        {
+            "id": "https://www.on4bcb.com/test-page-wally.html",
+            "url": "https://www.on4bcb.com/test-page-wally.html",
+            "title": "Test page Wally",
+            "summary": "En Lucee",
+            "content_html": "<p>En Lucee</p>",
+            "author": {
+                "name": "Walter ON4BCB"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-19T21:04:20+02:00",
+            "date_modified": "2026-08-19T21:04:20+02:00"
+        }
     ]
 }
